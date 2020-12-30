@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:quote_app/services/connectivity.dart';
 import 'package:quote_app/services/quotes.dart';
 
 class Loading extends StatefulWidget {
