@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:quote_app/services/connectivity.dart';
 import 'package:quote_app/services/quotes.dart';
 
 class Home extends StatefulWidget {
