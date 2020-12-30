@@ -1,4 +1,4 @@
-# quote_app
+# Random_Quote_App
 
 A new Flutter project.
 
